@@ -12,7 +12,7 @@ function draw() {
   // check to condition of the mouse
   if(mouseIsPressed){ // true or false?
     // if true, change the fill color here
-    Fill(255, 0, 0);
+    fill(255, 0, 0);
     x = width/4;
     w = 50;
   }
